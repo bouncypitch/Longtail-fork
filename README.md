@@ -3,8 +3,11 @@
 ![Longtail preview](demo/longtail_preview.gif)
 
 **Full 2-minute narrated demo:**
-https://github.com/user-attachments/assets/44209625-b7a6-438d-94fa-66771338f1ea
-https://github.com/user-attachments/assets/44209625-b7a6-438d-94fa-66771338f1ea
+
+
+https://github.com/user-attachments/assets/67a82285-c8f9-4fd4-b763-5ba3f5f596a8
+
+
 
 **Self-driving and robotics models fail on the rare moments they've never seen. Longtail finds those moments in footage nobody has watched.**
 
