@@ -4,9 +4,11 @@ https://github.com/user-attachments/assets/44209625-b7a6-438d-94fa-66771338f1ea
 
 # Longtail
 
-[![Longtail demo: click to watch the 2-minute narrated video](demo/longtail_preview.gif)](https://github.com/ananya-mh/Longtail/raw/main/demo/Longtail_explainer.mp4)
+![Longtail preview](demo/longtail_preview.gif)
 
-*Preview loops automatically. Click it for the full 2-minute narrated demo.*
+**Full 2-minute narrated demo:**
+
+https://github.com/user-attachments/assets/44209625-b7a6-438d-94fa-66771338f1ea
 
 **Self-driving and robotics models fail on the rare moments they've never seen. Longtail finds those moments in footage nobody has watched.**
 
@@ -29,6 +31,8 @@ Built for the VAST Builders Challenge (San Francisco, Oct 2 2026) on team-21's p
 | **Live watch** | New segments landing from a re-ingest are screened automatically and flagged if they look like edge cases |
 
 ## How it works
+
+![Longtail architecture](demo/architecture.png)
 
 ```
                      ┌───────────── pre-built, already running (VAST + CoreWeave) ─────────────┐
